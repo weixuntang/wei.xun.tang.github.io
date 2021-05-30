@@ -5,6 +5,7 @@
 body {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0;
+    font-size: 16px;
 }
 
 section {
@@ -30,7 +31,10 @@ section {
     display: flex;
     flex-direction: column;
     text-align: left;
-    padding-top: 62px;
+}
+
+#aboutTitle {
+    font-size: 29pt;
 }
 
 .center {
