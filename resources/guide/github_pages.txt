@@ -1,3 +1,11 @@
+# Pages Set Up
+
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages
 
 https://github.community/t/how-to-remove-theme-from-project/10454
+
+--------------------------------------------------------------------------------------------------------------
+
+# Stackoverflow Links 
+
+https://stackoverflow.com/questions/55713033/html-how-to-add-an-icon-logo-in-browser
