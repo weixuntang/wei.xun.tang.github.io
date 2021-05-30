@@ -9,3 +9,5 @@ https://github.community/t/how-to-remove-theme-from-project/10454
 # Stackoverflow Links 
 
 https://stackoverflow.com/questions/55713033/html-how-to-add-an-icon-logo-in-browser
+
+https://stackoverflow.com/questions/24739126/scroll-to-a-specific-element-using-html
