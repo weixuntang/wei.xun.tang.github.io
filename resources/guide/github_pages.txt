@@ -1,1 +1,3 @@
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Using_Github_pages
+
+https://github.community/t/how-to-remove-theme-from-project/10454
