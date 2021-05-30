@@ -1,5 +1,6 @@
 * {
     scroll-behavior: smooth;
+    box-sizing: border-box;
 }
 
 body {
@@ -9,13 +10,8 @@ body {
 }
 
 section {
-    border-style: solid;
-    height: 650px;
-}
-
-.centerDiv {
-    justify-content: center;
-    /* align-content: center; */
+    height: 550px;
+    width: fit-content;
 }
 
 .displayPhoto {
@@ -31,6 +27,7 @@ section {
     display: flex;
     flex-direction: column;
     text-align: left;
+    padding-right: 60px;
 }
 
 #aboutTitle {
@@ -41,4 +38,12 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.setBackgroundGrey {
+    background-color: #D3D3D3;
+}
+
+#footer {
+    height: 300px;
 }
