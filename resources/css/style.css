@@ -11,3 +11,33 @@ section {
     border-style: solid;
     height: 650px;
 }
+
+.centerDiv {
+    justify-content: center;
+    /* align-content: center; */
+}
+
+.displayPhoto {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+}
+
+.displayPhotoContentDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    justify-items: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
