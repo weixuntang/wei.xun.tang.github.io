@@ -17,6 +17,12 @@ section {
     /* align-content: center; */
 }
 
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 .displayPhoto {
     border-radius: 50%;
     display: block;
