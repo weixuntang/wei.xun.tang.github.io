@@ -11,7 +11,7 @@ body {
 
 section {
     height: 550px;
-    width: fit-content;
+    width: auto;
 }
 
 .displayPhoto {
@@ -46,4 +46,5 @@ section {
 
 #footer {
     height: 300px;
+    width: auto;
 }
