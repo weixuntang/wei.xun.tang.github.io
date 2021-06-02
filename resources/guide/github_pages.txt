@@ -17,3 +17,12 @@ https://stackoverflow.com/questions/14659240/angle-bracket-without-triggering-ht
 https://stackoverflow.com/questions/22954832/overwrite-or-add-styles-to-predefined-classes-in-bootstrap-3
 
 https://stackoverflow.com/questions/24923210/transparent-navbar-to-visible-when-scrolling
+
+
+
+
+
+
+https://stackoverflow.com/questions/14042599/storing-base64-encoded-data-as-blob-or-text-datatype
+
+https://stackoverflow.com/questions/41431322/how-to-convert-formdata-html5-object-to-json
