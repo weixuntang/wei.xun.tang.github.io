@@ -22,7 +22,7 @@ https://stackoverflow.com/questions/24923210/transparent-navbar-to-visible-when-
 
 
 
-
+#Spring Boot Proj Links
 https://stackoverflow.com/questions/14042599/storing-base64-encoded-data-as-blob-or-text-datatype
 
 https://stackoverflow.com/questions/41431322/how-to-convert-formdata-html5-object-to-json
@@ -34,3 +34,5 @@ https://stackoverflow.com/questions/44647630/validation-failed-for-query-for-met
 https://zetcode.com/springboot/datajpaquery/
 
 https://stackoverflow.com/questions/39591514/es6-fetch-function-returns-undefined
+
+https://stackoverflow.com/questions/13567155/com-mysql-jdbc-mysqldatatruncation-data-truncation-data-too-long-for-column-c
