@@ -6,7 +6,7 @@ https://github.community/t/how-to-remove-theme-from-project/10454
 
 https://w3bits.com/css-image-hover-zoom/
 
-
+https://stackoverflow.com/questions/50424779/bootstrap4-navbar-transparent-on-scroll-down-bg-colour-on-scroll-up-but-back-t
 
 
 
