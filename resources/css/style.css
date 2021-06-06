@@ -67,15 +67,15 @@ section {
 
 /* Colorize-zoom Container */
 
-.img-hover-colorize img {
-    /* transition: transform .5s, filter 1.5s ease-in-out; */
+.img-hover-zoom--colorize img {
+    transition: transform .5s, filter 1.5s ease-in-out;
     filter: grayscale(100%);
 }
 
 
 /* The Transformation */
 
-.img-hover-colorize:hover img {
+.img-hover-zoom--colorize:hover img {
     filter: grayscale(0);
-    transform: scale(1.1);
+    /* transform: scale(1.1); */
 }
