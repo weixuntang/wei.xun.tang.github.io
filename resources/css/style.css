@@ -49,17 +49,33 @@ section {
     width: auto;
 }
 
-
-.thumbnail{
-  width: 100px;
-  height: 100px;
-  display:block;
-  z-index:999;
-  cursor: pointer;
-  -webkit-transition-property: all;
-  -webkit-transition-duration: 0.3s;
-  -webkit-transition-timing-function: ease;
+.thumbnail {
+    width: 100px;
+    height: 100px;
+    display: block;
+    z-index: 999;
+    cursor: pointer;
+    -webkit-transition-property: all;
+    -webkit-transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease;
 }
+
 .thumbnail:hover {
     transform: scale(5);
+}
+
+
+/* Colorize-zoom Container */
+
+.img-hover-colorize img {
+    /* transition: transform .5s, filter 1.5s ease-in-out; */
+    filter: grayscale(100%);
+}
+
+
+/* The Transformation */
+
+.img-hover-colorize:hover img {
+    filter: grayscale(0);
+    transform: scale(1.1);
 }
