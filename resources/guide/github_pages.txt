@@ -47,6 +47,7 @@ https://stackoverflow.com/questions/13567155/com-mysql-jdbc-mysqldatatruncation-
 
 https://stackoverflow.com/questions/50834785/want-to-automatically-insert-current-date-in-the-table-when-a-post-request-is-ma
 
+https://stackoverflow.com/questions/47693110/could-not-write-json-infinite-recursion-stackoverflowerror-nested-exception (crazy infinite loop)
 
 #Read Up 
 
