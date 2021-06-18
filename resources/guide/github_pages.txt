@@ -51,6 +51,8 @@ https://stackoverflow.com/questions/47693110/could-not-write-json-infinite-recur
 
 https://stackoverflow.com/questions/23101260/ignore-fields-from-java-object-dynamically-while-sending-as-json-from-spring-mvc
 
+https://stackoverflow.com/questions/10172499/mailto-using-javascript
+
 #Read Up 
 
 https://javatechonline.com/what-is-spring-boot/?fbclid=IwAR0Ep3av6XvniQauGsIoLhRiNjZ8kOOw4JpY9lHyQ0-1P1m57Udw7wzCa5I
