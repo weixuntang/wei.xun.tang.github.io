@@ -54,6 +54,8 @@ https://stackoverflow.com/questions/23101260/ignore-fields-from-java-object-dyna
 
 https://stackoverflow.com/questions/10172499/mailto-using-javascript
 
+https://stackoverflow.com/questions/12915222/bootstrap-modal-close-modal-when-call-to-action-button-is-clicked
+
 #Read Up 
 
 https://javatechonline.com/what-is-spring-boot/?fbclid=IwAR0Ep3av6XvniQauGsIoLhRiNjZ8kOOw4JpY9lHyQ0-1P1m57Udw7wzCa5I
@@ -62,3 +64,4 @@ https://javatechonline.com/what-is-spring-boot/?fbclid=IwAR0Ep3av6XvniQauGsIoLhR
 #VS Hacks
 
 https://stackoverflow.com/questions/52586965/why-does-prettier-not-format-code-in-vs-code
+https://discourse.lubuntu.me/t/how-to-install-fonts-in-lubuntu-20-04/1654
