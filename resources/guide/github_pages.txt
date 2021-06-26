@@ -30,6 +30,7 @@ https://stackoverflow.com/questions/24923210/transparent-navbar-to-visible-when-
 
 
 
+
 #Spring Boot Proj Links
 https://stackoverflow.com/questions/14042599/storing-base64-encoded-data-as-blob-or-text-datatype
 
@@ -56,3 +57,8 @@ https://stackoverflow.com/questions/10172499/mailto-using-javascript
 #Read Up 
 
 https://javatechonline.com/what-is-spring-boot/?fbclid=IwAR0Ep3av6XvniQauGsIoLhRiNjZ8kOOw4JpY9lHyQ0-1P1m57Udw7wzCa5I
+
+
+#VS Hacks
+
+https://stackoverflow.com/questions/52586965/why-does-prettier-not-format-code-in-vs-code
