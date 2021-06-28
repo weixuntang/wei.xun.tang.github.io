@@ -58,6 +58,8 @@ https://stackoverflow.com/questions/12915222/bootstrap-modal-close-modal-when-ca
 
 https://stackoverflow.com/questions/5005388/cannot-add-or-update-a-child-row-a-foreign-key-constraint-fails
 
+https://electrictoolbox.com/maximum-length-mysql-text-field-types/
+
 #Read Up 
 
 https://javatechonline.com/what-is-spring-boot/?fbclid=IwAR0Ep3av6XvniQauGsIoLhRiNjZ8kOOw4JpY9lHyQ0-1P1m57Udw7wzCa5I
