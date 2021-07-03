@@ -1,3 +1,5 @@
 #Springboot
 
 https://www.baeldung.com/spring-boot-sqlite
+
+https://github.com/eugenp/tutorials/tree/master/spring-data-rest/src/main/java/com/baeldung/books
