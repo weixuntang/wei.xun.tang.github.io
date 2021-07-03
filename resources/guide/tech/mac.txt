@@ -1,0 +1,4 @@
+https://apple.stackexchange.com/questions/101432/how-do-i-launch-finder-from-terminal-or-command-line
+
+
+https://superuser.com/questions/997673/how-to-run-vlc-command-in-mac-terminal
