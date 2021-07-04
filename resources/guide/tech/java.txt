@@ -1,0 +1,2 @@
+#LINUX
+https://askubuntu.com/questions/1119906/how-do-i-uninstall-java-11-to-be-able-to-install-java-8-for-android-studio
