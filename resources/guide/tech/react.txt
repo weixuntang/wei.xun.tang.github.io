@@ -2,3 +2,5 @@
 https://stackoverflow.com/questions/44295183/npm-bootstrap-not-working-on-new-react-project
 
 https://reactjs.org/docs/hooks-effect.html
+
+https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to-method
