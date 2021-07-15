@@ -1,2 +1,8 @@
 #LINUX
 https://askubuntu.com/questions/1119906/how-do-i-uninstall-java-11-to-be-able-to-install-java-8-for-android-studio
+
+
+
+#JAVA
+
+https://stackoverflow.com/questions/25355385/where-to-put-business-logic-in-spring-mvc-framework#:~:text=Generally%2C%20your%20business%20logic%20goes,pojos%20representing%20your%20business%20models.
