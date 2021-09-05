@@ -1,0 +1,2 @@
+# Modifying Linux
+https://discourse.lubuntu.me/t/how-to-change-login-lock-screen-on-lubuntu-20-04/1138/3
