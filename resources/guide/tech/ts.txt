@@ -1,1 +1,3 @@
 https://www.albertgao.xyz/2016/08/11/how-to-declare-a-function-type-variable-in-typescript/
+
+https://techformist.com/type-casting-typescript/
