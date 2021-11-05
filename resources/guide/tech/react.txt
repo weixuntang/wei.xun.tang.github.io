@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/29810914/react-js-onclick-cant-pass-value-to
 https://stackoverflow.com/questions/65310385/reactjs-event-target-value-returns-as-undefined
 
 https://stackoverflow.com/questions/53017772/moment-js-parse-date-time-ago
+
+https://techformist.com/type-casting-typescript/
