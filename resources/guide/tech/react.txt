@@ -10,3 +10,9 @@ https://stackoverflow.com/questions/65310385/reactjs-event-target-value-returns-
 https://stackoverflow.com/questions/53017772/moment-js-parse-date-time-ago
 
 https://techformist.com/type-casting-typescript/
+
+# tooltip
+https://paladini.dev/posts/how-to-make-an-extremely-reusable-tooltip-component-with-react--and-nothing-else/
+https://codesandbox.io/s/how-to-make-an-extremely-reusable-tooltip-component-with-react-and-nothing-else-7opo3?from-embed=&file=/src/Tooltip.js:544-552
+
+
