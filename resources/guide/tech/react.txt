@@ -15,4 +15,7 @@ https://techformist.com/type-casting-typescript/
 https://paladini.dev/posts/how-to-make-an-extremely-reusable-tooltip-component-with-react--and-nothing-else/
 https://codesandbox.io/s/how-to-make-an-extremely-reusable-tooltip-component-with-react-and-nothing-else-7opo3?from-embed=&file=/src/Tooltip.js:544-552
 
+#desktop or mobile
+https://stackoverflow.com/questions/39435395/reactjs-how-to-determine-if-the-application-is-being-viewed-on-mobile-or-deskto
+https://vhudyma-blog.eu/detect-mobile-device-in-react/
 
