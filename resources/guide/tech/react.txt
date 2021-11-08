@@ -17,5 +17,6 @@ https://codesandbox.io/s/how-to-make-an-extremely-reusable-tooltip-component-wit
 
 #desktop or mobile
 https://stackoverflow.com/questions/39435395/reactjs-how-to-determine-if-the-application-is-being-viewed-on-mobile-or-deskto
+https://stackoverflow.com/questions/44480053/how-to-detect-if-screen-size-has-changed-to-mobile-in-react
 https://vhudyma-blog.eu/detect-mobile-device-in-react/
 
