@@ -7,3 +7,12 @@ https://stackoverflow.com/questions/50046841/proper-way-to-make-api-fetch-post-w
 #Vertical align in in-line flex box
 
 https://codepen.io/Rafiozoo/pen/MbZJLW
+
+
+#Convert string to number
+https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/
+
+
+#Combine regex, disable regex, 
+https://stackoverflow.com/questions/869809/combine-regexp
+https://stackoverflow.com/questions/36773671/deactivate-input-in-react-with-a-button-click
