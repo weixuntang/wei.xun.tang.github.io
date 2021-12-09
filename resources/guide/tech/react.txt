@@ -15,6 +15,10 @@ https://techformist.com/type-casting-typescript/
 https://paladini.dev/posts/how-to-make-an-extremely-reusable-tooltip-component-with-react--and-nothing-else/
 https://codesandbox.io/s/how-to-make-an-extremely-reusable-tooltip-component-with-react-and-nothing-else-7opo3?from-embed=&file=/src/Tooltip.js:544-552
 
+#hide tooltip when click outside
+https://stackoverflow.com/questions/63359138/react-closing-a-dropdown-when-click-outside
+
+
 #desktop or mobile
 https://stackoverflow.com/questions/39435395/reactjs-how-to-determine-if-the-application-is-being-viewed-on-mobile-or-deskto
 https://stackoverflow.com/questions/44480053/how-to-detect-if-screen-size-has-changed-to-mobile-in-react
