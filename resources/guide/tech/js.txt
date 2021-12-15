@@ -16,3 +16,6 @@ https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/
 #Combine regex, disable regex, 
 https://stackoverflow.com/questions/869809/combine-regexp
 https://stackoverflow.com/questions/36773671/deactivate-input-in-react-with-a-button-click
+
+#prevent user entering whitespace
+https://stackoverflow.com/questions/61654324/how-to-prevent-user-from-entering-spaces-in-an-input-form-field-in-reactjs
