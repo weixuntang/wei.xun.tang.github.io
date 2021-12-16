@@ -18,6 +18,9 @@ https://codesandbox.io/s/how-to-make-an-extremely-reusable-tooltip-component-wit
 #hide tooltip when click outside
 https://stackoverflow.com/questions/63359138/react-closing-a-dropdown-when-click-outside
 
+#nested onclick also trigger parent
+https://stackoverflow.com/questions/40304213/react-nested-onclick-also-triggers-parent
+
 
 #desktop or mobile
 https://stackoverflow.com/questions/39435395/reactjs-how-to-determine-if-the-application-is-being-viewed-on-mobile-or-deskto
