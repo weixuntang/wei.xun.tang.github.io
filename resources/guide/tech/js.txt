@@ -16,3 +16,20 @@ https://gomakethings.com/converting-strings-to-numbers-with-vanilla-javascript/
 #Combine regex, disable regex, 
 https://stackoverflow.com/questions/869809/combine-regexp
 https://stackoverflow.com/questions/36773671/deactivate-input-in-react-with-a-button-click
+
+#prevent user entering whitespace
+https://stackoverflow.com/questions/61654324/how-to-prevent-user-from-entering-spaces-in-an-input-form-field-in-reactjs
+
+#self invoke function
+https://stackoverflow.com/questions/60208535/is-there-a-way-to-create-a-named-immediately-invoked-arrow-function-expression
+
+#min max date
+https://stackoverflow.com/questions/7143399/min-max-of-dates-in-an-array
+
+#date in yyyymmdd format
+https://stackoverflow.com/questions/32192922/how-do-i-get-a-date-in-yyyy-mm-dd-format
+
+#check array empty
+https://stackoverflow.com/questions/24403732/how-to-check-if-array-is-empty-or-does-not-exist
+
+

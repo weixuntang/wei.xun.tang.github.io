@@ -1,3 +1,9 @@
 https://www.albertgao.xyz/2016/08/11/how-to-declare-a-function-type-variable-in-typescript/
 
 https://techformist.com/type-casting-typescript/
+
+https://stackoverflow.com/questions/64575055/typescript-getting-all-ancestors-type-is-missing-the-following-propert
+
+https://stackoverflow.com/questions/52423842/what-is-not-assignable-to-parameter-of-type-never-error-in-typescript
+
+https://stackoverflow.com/questions/44832316/variable-test-is-used-before-being-assigned-typescript
