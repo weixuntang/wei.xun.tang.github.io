@@ -1,5 +1,5 @@
 #Code Formatter for eclipse - Google Style
 https://stackoverflow.com/questions/3754405/best-eclipse-code-formatters
-https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml
+https://github.com/google/styleguide/blob/gh-pages/eclipse-java-google-style.xml
 https://github.com/google/google-java-format
 https://github.com/google/google-java-format/releases
