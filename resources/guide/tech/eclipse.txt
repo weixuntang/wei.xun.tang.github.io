@@ -1,0 +1,3 @@
+#Code Formatter for eclipse - Google Style
+https://stackoverflow.com/questions/3754405/best-eclipse-code-formatters
+https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml
