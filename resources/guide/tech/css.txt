@@ -2,3 +2,7 @@ https://stackoverflow.com/questions/28773130/on-hover-show-current-time
 
 
 https://stackoverflow.com/questions/9843556/how-to-grey-out-a-box-in-css/9844497
+
+https://stackoverflow.com/questions/114543/how-to-horizontally-center-an-element
+
+
